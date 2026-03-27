@@ -76,7 +76,9 @@ pip install -r requirements.txt
 }
 ## Publication
 Badhan, Sharmin Jahan, Rei Samsami, and Goli Nossoni. "BOARD# 56A: Student Feedback Analysis Using Natural Language Processing (NLP) and Sentiment Analysis." In 2025 ASEE Annual Conference & Exposition. 2025. 
+This work applies natural language processing (NLP) and sentiment analysis to student feedback data, enabling quantitative insights from qualitative course evaluations. The study supports data-driven improvements in teaching effectiveness and educational assessment.
 - [Read Full Paper](https://doi.org/10.18260/1-2--56002)
+
 ## Authors  
 
 - Sharmin Jahan Badhan  
