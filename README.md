@@ -17,32 +17,6 @@ A fine-tuned DistilRoBERTa (BERT-based) model is used to classify feedback into 
 
 ---
 
-## Repository Structure  
-
-```
-Sentiment_Analysis_BERT/
-├── data/
-├── models/
-├── scripts/
-├── utils/
-├── results/
-├── notebooks/
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Setup  
-
-```
-git clone https://github.com/sharmin3036/Sentiment_Analysis_BERT.git
-cd Sentiment_Analysis_BERT
-pip install -r requirements.txt
-```
-
----
-
 ## Dataset  
 
 - 377 student comments  
